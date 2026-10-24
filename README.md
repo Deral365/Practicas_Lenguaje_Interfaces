@@ -8,6 +8,8 @@
 * **Docente:** Dr. José Luis Medina Jiménez
 
 ## Índice de Prácticas
+* [Práctica 1:Ciclos numericos](./Practica1/Project1/hola.asm)
+* [Práctica 2:Captura y desplegado de mensajes.](./Practica2/Project1/hola.asm)
 * [Práctica 3: Comparación y prueba](./Practica3/Project1/hola.asm)
 * [Práctica 4: Saltos](./Practica4/Project1/hola.asm)
 * [Práctica 5: Condicionales](./Practica5/Project1/hola.asm)

@@ -23,3 +23,11 @@
 * [Práctica 13: Obtención de una cadena hexadecimal](./Practica13/Project1/hola.asm)
 * [Práctica 14: Captura y almacenamiento de datos numéricos](./Practica14/Project1/hola.asm)
 * [Práctica 15: Manipulación de archivos](./Practica15/Project1/hola.asm)
+  
+## Unidad 3: Procedimientos, pila y macros
+
+* [Práctica 1: Procedimientos (CALL y RET)](./01_procedimientos.asm)
+* [Práctica 2: Direcciones de retorno en la pila](./02_direcciones_retorno_pila.asm)
+* [Práctica 3: Parámetros por la pila (marco con EBP)](./03_parametros_por_pila.asm)
+* [Práctica 4: Macros](./04_macros.asm)
+* [Práctica 5: Validación de cadena vacía](./05_validar_cadena_vacia.asm)

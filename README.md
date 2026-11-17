@@ -33,6 +33,8 @@
 * [Práctica 5: Validación de cadena vacía](./05_validar_cadena_vacia.asm)
 
 ## Unidad 3:Poyecto
-* Proyecto: (./Proyecto/Project1/hola.asm)
+* [Proyecto: ](./Proyecto/Project1/hola.asm)
+* [Inventario:](./Proyecto/Project1/inventario.txt)
+* [Reporte Final:](./U3_Proyecto Ventas e inventario en ensamblador.pdf)
   
 

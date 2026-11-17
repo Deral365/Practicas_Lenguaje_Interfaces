@@ -33,6 +33,6 @@
 * [Práctica 5: Validación de cadena vacía](./05_validar_cadena_vacia.asm)
 
 ## Unidad 3:Poyecto
-* Proyecto: (./hola.asm)
+* Proyecto: (./Proyecto/Project1/hola.asm)
   
 
